@@ -27,8 +27,19 @@ ContactsApp est une application Android simple qui permet aux utilisateurs de li
 L'application demande la permission `READ_CONTACTS` pour accéder à la liste des contacts de l'utilisateur. Si l'autorisation est refusée, un message d'erreur sera affiché.
 
 
+---
+# Démonstration Vidéo
+
+Voici une courte démonstration de l'application :
+
+
+https://github.com/user-attachments/assets/c6385f67-49d8-4738-a158-c209280bd233
+
+
 
 ## Auteurs
 
-- [BOUKHRAIS Meryem]
+- **BOUKHRAIS Meryem** 
+
+---
 
